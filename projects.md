@@ -10,6 +10,18 @@ These are all ongoing projects that I revisit whenever I find the time.
 
 ----
 
+## Modular Z80 Computer
+
+This is the first significant electronics project that I have attemped, and I didn't start small!
+I'm aiming to build a modular Z80 computer, which will start out simple, just running a serial bootloader.
+However, being a modular system I intend to upgrade it over time with components like video display, sound,
+and even a CompactFlash hard disk! Eventually the system will be able to run a full-fledged OS, which I also intend
+to write myself.
+
+Read more about this project [here]({% link modularz80/index.md %}).
+
+----
+
 ## ZFORTH
 
 ZFORTH is a FORTH implementation targeting the Z80 8-bit microprocessor.
