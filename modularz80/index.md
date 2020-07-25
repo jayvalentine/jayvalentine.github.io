@@ -6,8 +6,8 @@ title: Jay Valentine - Modular Z80 Computer
 # Modular Z80 Computer
 
 Here you can find details of my modular Z80 computer. This page will be expanded over time as I upgrade the computer with new capabilities.
-This system was heavily inspired by [RC2014](https://rc2014.co.uk/), a similar modular Z80 system. Because of this, I'm not going to sell
-kits for this project. If you want to buy a ready-made kit, please take a look at the RC2014!
+This system was heavily inspired by [RC2014](https://rc2014.co.uk/), a similar modular Z80 system. If you're not bothered about designing your own system,
+and just want something ready-made to play around with, take a look there!
 
 ## System Architecture
 
