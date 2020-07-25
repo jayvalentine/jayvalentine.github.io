@@ -4,6 +4,10 @@ body {
     background-color: #496168;
 }
 
+nav, footer {
+    text-align: center;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 22px;
