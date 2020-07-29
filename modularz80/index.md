@@ -44,7 +44,6 @@ the ROM's `CE` (chip-enable) signal, mapping it to the lower 8K of the Z80's add
 the bootloader, as well as the stack. Like the ROM module, the `MREQ` and `RD` signals are used to interface to the RAM, along with the `WR` signal for write operations.
 The `A15` address line is inverted and used as the RAM's `CE` signal, mapping it to the upper 32K of the address space.
 
-
 ## Serial I/O
 
 Currently, the only I/O for the system is a Motorola 6850 ACIA, which provides a single serial port which can be connected to using an FTDI USB-to-TTL-serial adapter.
