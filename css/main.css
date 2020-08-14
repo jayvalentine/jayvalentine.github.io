@@ -35,6 +35,8 @@ h1 {
     text-align: center;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #d2d2d2;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d2d2d2;
 }
 h2 {
     text-align: left;
@@ -51,6 +53,10 @@ p {
     color: #d2d2d2;
 }
 
+hr {
+    color: #d2d2d2;
+}
+
 nav {
     border-bottom: 1px solid #d2d2d2;
 }
@@ -58,4 +64,22 @@ nav {
 footer {
     border-top: 1px solid #d2d2d2;
     font-size: .8em;
+}
+
+.contents {
+    border-bottom: 1px solid #d2d2d2;
+}
+
+.contents ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 18px;
+    list-style: none;
+    font-weight: bold;
+    padding: 0px;
+}
+
+.contents h2 {
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
