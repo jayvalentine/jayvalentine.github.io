@@ -52,8 +52,29 @@ p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #d2d2d2;
 }
+ul {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    color: #d2d2d2;
+}
+code {
+    color: #d2d2d2;
+}
 
 hr {
+    color: #d2d2d2;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+figcaption {
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     color: #d2d2d2;
 }
 
@@ -72,14 +93,13 @@ footer {
 
 .contents ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 18px;
+    font-size: 16px;
     list-style: none;
     font-weight: bold;
-    padding: 0px;
 }
 
 .contents h2 {
     padding: 0px;
-    margin-bottom: 0px;
-    margin-top: 0px;
+    margin: 0px;
+    text-align: center;
 }
