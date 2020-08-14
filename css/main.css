@@ -78,6 +78,17 @@ figcaption {
     color: #d2d2d2;
 }
 
+.highlighter-rouge {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+div.highlight {
+    display: inline-block;
+    text-align: left;
+}
+
 nav {
     border-bottom: 1px solid #d2d2d2;
 }
