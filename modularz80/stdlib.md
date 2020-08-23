@@ -10,7 +10,7 @@ architecture. I'm not alone, and so the Z80 C compiler I'm using, [z88dk](https:
 However, I wanted to try implementing my own for two reasons:
 
 1. Some aspects of the standard library (e.g. acessing files, serial port, etc) will be hardware-specific, and even if I used z88dk's libraries, I'd have to port some of it anyway.
-2. I wanted to try writing my own!
+2. It'll be fun!
 
 At the minute I have a minimal library, but over time hopefully this will prove a useful standard library when writing user programs for the modular Z80.
 
