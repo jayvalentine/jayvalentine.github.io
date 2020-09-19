@@ -72,4 +72,4 @@ spacecraft sent to monitor primitive alien civilizations.
 The actions you take guide the progression of the tribes through time, but events are not
 entirely under your control, and your decisions may have unexpected consequences.
 
-Monolith is written in TypeScript, and can be played [here]({% link monolith/index.html %})!
+Monolith is written in TypeScript, and can be played [here](https://jayvalentine.github.io/monolith/)!
